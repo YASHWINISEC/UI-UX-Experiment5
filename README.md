@@ -44,6 +44,12 @@ The UX Design Experiment aims to address critical user experience issues in two 
   • Reduce abandonment rates during task completion.
   • Foster trust and repeat usage of both app and web services.
 
+  <img width="1068" height="734" alt="image" src="https://github.com/user-attachments/assets/db42de19-fba0-4301-8ecf-ea13e4c14da8" />
+
+  <img width="1009" height="790" alt="image" src="https://github.com/user-attachments/assets/45319d0e-151f-406e-85b5-794393929a82" />
+
+
+
 ## Result:
 - Health App: Integrated tracking and personalized tips improved user engagement.
 - Gov Portal: Simplified design and clearer language enhanced usability.
